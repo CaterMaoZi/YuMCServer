@@ -9,7 +9,7 @@
 御服开服器(YuMCServer)
 
 是我在去年前的一个空闲的时候使用batch/java写的一个Windows 平台下
-游戏《我的世界(Minecraft : Java Editon)》面向新手小白的
+游戏《我的世界(Minecraft : Java Edition)》面向新手小白的
 可一键下载资源的快捷开服器
 
 
